@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.19",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "BluetoothSupport",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9685af6a5ec1477292b0990dbaf3eb6d"
+		},
+		{
+			"Name": "SoundVisualizations",
+			"Enabled": true
+		}
+	]
+}
