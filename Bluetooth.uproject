@@ -12,6 +12,10 @@
 		{
 			"Name": "SoundVisualizations",
 			"Enabled": true
+		},
+		{
+			"Name": "WindowsAudioCapture",
+			"Enabled": false
 		}
 	]
 }
